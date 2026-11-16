@@ -56,7 +56,7 @@ Contribution guidelines will be published as the project develops. Please open a
 
 License
 
-The project license has not yet been selected. Licensing information will be added before the first public code release.
+Kestrel is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Disclaimer
 
